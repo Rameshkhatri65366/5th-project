@@ -1,0 +1,6 @@
+reg_no,symbol_no,Name,FACULTY,year,MATHS,MATHS_GRADE,NEPALI,NEPALI_GRADE,FINAL_TOTAL,FINAL_GRADE
+1,22,sagar,computer,2018,50,A,50,B,100,A
+2,23,sujen,electric,2018,20,B,75,A,95,A
+3,24,simanta,civil,2018,20,B,20,C,40,C
+4,25,ramesh,civil,2018,15,C,55,B,70,B
+5,26,niraj,civil,2018,50,A,55,B,70,B
